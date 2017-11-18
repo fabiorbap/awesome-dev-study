@@ -1,5 +1,7 @@
 # awesome-dev-study
-A repository with links that I use for development study
+A repository with references that I use for development study.
+The references below are the ones I found useful for some reason and decided to keep stored in a variety of topics.
+This repo is under permanent construction, so feel free to make suggestions and send your own references. I will try to constantly update it.
 
 # React Native
 
@@ -13,7 +15,7 @@ A repository with links that I use for development study
 - [Tips for React Native Images (or saying goodbye to trial and error)](https://medium.com/the-react-native-log/tips-for-react-native-images-or-saying-goodbye-to-trial-and-error-b2baaf0a1a4d)
 - [Pixel perfect cloud images in React Native](https://blog.uncommon.is/pixel-perfect-cloud-images-in-react-native-55acbc377a72)
 
-## Layout construction/
+## Layout construction
 
 - [Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4)
 - [FLEXBOX FROGGY game for practicing](http://flexboxfroggy.com/)
