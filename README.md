@@ -16,7 +16,7 @@ A repository with links that I use for development study
 ## Layout construction/
 
 - [Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4)
-- (FLEXBOX FROGGY game for practicing)[http://flexboxfroggy.com/]
+- [FLEXBOX FROGGY game for practicing](http://flexboxfroggy.com/)
 - [The Shapes of React Native](http://browniefed.com/blog/the-shapes-of-react-native/)
 
 ## Component styling
