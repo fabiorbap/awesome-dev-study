@@ -41,3 +41,7 @@ This repo is under permanent construction, so feel free to make suggestions and 
 - [Mozilla JS Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [JS in CodeAcademy](https://www.codecademy.com/learn/javascript)
 - [JS The Right Way](http://jstherightway.org)
+
+# TypeScript
+
+- [Coding guidelines](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
