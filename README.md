@@ -1,6 +1,8 @@
 # awesome-dev-study
 A repository with references that I use for development study.
+
 The references below are the ones I found useful for some reason and decided to keep stored in a variety of topics.
+
 This repo is under permanent construction, so feel free to make suggestions and send your own references. I will try to constantly update it.
 
 # React Native
