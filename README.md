@@ -9,6 +9,8 @@ This repo is under permanent construction, so feel free to make suggestions and 
 
 - [Facebook Official React Native website](https://facebook.github.io/react/)
 - [50+Best articles and videos guide step by step of React Native](https://reactsharing.com/50best-articles-and-videos-guide-step-by-step-of-react-native.html)
+- [Everything You Should Know About React: The Basics You Need to Start Building](https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4)
+- [React Express](http://www.react.express/)
 - [Essential cross-platform UI components for React Native](https://github.com/GeekyAnts/NativeBase)
 - [React Native training](https://unbug.gitbooks.io/react-native-training/)
 - [How to Conditionally Render a Component in React Native](https://kylewbanks.com/blog/how-to-conditionally-render-a-component-in-react-native)
@@ -41,6 +43,7 @@ This repo is under permanent construction, so feel free to make suggestions and 
 - [Mozilla JS Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [JS in CodeAcademy](https://www.codecademy.com/learn/javascript)
 - [JS The Right Way](http://jstherightway.org)
+- [Master Map & Filter, Javascript’s Most Powerful Array Functions](https://codeburst.io/array-functions-map-filter-18a6e5f75da1)
 
 # TypeScript
 
