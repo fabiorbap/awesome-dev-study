@@ -48,3 +48,7 @@ This repo is under permanent construction, so feel free to make suggestions and 
 # TypeScript
 
 - [Coding guidelines](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
+
+# RxJava2
+
+- [Using RxJava 2 - Tutorial](https://www.vogella.com/tutorials/RxJava/article.html)
