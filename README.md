@@ -52,3 +52,7 @@ This repo is under permanent construction, so feel free to make suggestions and 
 # RxJava2
 
 - [Using RxJava 2 - Tutorial](https://www.vogella.com/tutorials/RxJava/article.html)
+
+# Realm DB
+
+- [Android Realm Database](https://www.journaldev.com/23357/android-realm-database)
