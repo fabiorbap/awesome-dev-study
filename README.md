@@ -44,6 +44,7 @@ This repo is under permanent construction, so feel free to make suggestions and 
 - [JS in CodeAcademy](https://www.codecademy.com/learn/javascript)
 - [JS The Right Way](http://jstherightway.org)
 - [Master Map & Filter, Javascript’s Most Powerful Array Functions](https://codeburst.io/array-functions-map-filter-18a6e5f75da1)
+- [The Modern Javascript Tutorial](https://javascript.info/)
 
 # TypeScript
 
