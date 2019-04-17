@@ -53,6 +53,7 @@ This repo is under permanent construction, so feel free to make suggestions and 
 # RxJava2
 
 - [Using RxJava 2 - Tutorial](https://www.vogella.com/tutorials/RxJava/article.html)
+- [RXJava + Kotlin + Retrofit + Star Wars API](https://imasters.com.br/apis-microsservicos/rxjava-kotlin-retrofit-star-wars-api)
 
 # Realm DB
 
