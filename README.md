@@ -55,6 +55,11 @@ This repo is under permanent construction, so feel free to make suggestions and 
 - [Using RxJava 2 - Tutorial](https://www.vogella.com/tutorials/RxJava/article.html)
 - [RXJava + Kotlin + Retrofit + Star Wars API](https://imasters.com.br/apis-microsservicos/rxjava-kotlin-retrofit-star-wars-api)
 
+## Android
+
 # Realm DB
 
 - [Android Realm Database](https://www.journaldev.com/23357/android-realm-database)
+- [Writing your Gradle build scripts in Kotlin on Android](https://www.bignerdranch.com/blog/writing-your-gradle-build-scripts-in-kotlin-on-android/?__s=er3shdupsyoqmaytzocu)
+
+- 
