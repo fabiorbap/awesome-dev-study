@@ -57,6 +57,10 @@ This repo is under permanent construction, so feel free to make suggestions and 
 
 # Android
 
+## MVI
+
+- [How to Implement MVI Architecture with Mosby in Android App](https://expertise.jetruby.com/how-to-implement-mvi-architecture-with-mosby-in-android-app-bc3d64e04739)
+
 ## Testing
 
 - [Developing Android unit and instrumentation tests - Tutorial](https://www.vogella.com/tutorials/AndroidTesting/article.html)
