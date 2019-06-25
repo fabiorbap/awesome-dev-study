@@ -57,6 +57,10 @@ This repo is under permanent construction, so feel free to make suggestions and 
 
 # Android
 
+## Dependency injection
+
+- [Dependency Injection on Android](https://tech.just-eat.com/2015/10/26/dependency-injection-on-android/)
+
 ## MVI
 
 - [How to Implement MVI Architecture with Mosby in Android App](https://expertise.jetruby.com/how-to-implement-mvi-architecture-with-mosby-in-android-app-bc3d64e04739)
