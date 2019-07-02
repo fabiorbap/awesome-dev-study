@@ -70,6 +70,7 @@ This repo is under permanent construction, so feel free to make suggestions and 
 ## Testing
 
 - [Developing Android unit and instrumentation tests - Tutorial](https://www.vogella.com/tutorials/AndroidTesting/article.html)
+- [Given When Then — Our Testing Approach](https://proandroiddev.com/given-when-then-our-testing-approach-c9087b291c36)
 
 ## Realm DB
 
