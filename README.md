@@ -79,3 +79,7 @@ This repo is under permanent construction, so feel free to make suggestions and 
 ## Gradle
 
 - [Writing your Gradle build scripts in Kotlin on Android](https://www.bignerdranch.com/blog/writing-your-gradle-build-scripts-in-kotlin-on-android/?__s=er3shdupsyoqmaytzocu)
+
+## Layout
+
+- [ConstraintLayout Tutorial Part 1 - UNDERSTANDING CONSTRAINTS - Android Studio Tutorial](https://www.youtube.com/watch?v=4N4bCdyGcUc)
