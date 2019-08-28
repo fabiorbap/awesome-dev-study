@@ -62,6 +62,7 @@ This repo is under permanent construction, so feel free to make suggestions and 
 - [Dependency Injection on Android](https://tech.just-eat.com/2015/10/26/dependency-injection-on-android/)
 - [Practical guide to Dagger 2](https://android.jlelse.eu/practical-guide-to-dagger-76398948a2ea)
 - [Dagger 2. Part I. Basic principles, graph dependencies, scopes.](https://android.jlelse.eu/dagger-2-part-i-basic-principles-graph-dependencies-scopes-3dfd032ccd82)
+- [Injeção de dependência no Kotlin com Koin](https://medium.com/collabcode/inje%C3%A7%C3%A3o-de-depend%C3%AAncia-no-kotlin-com-koin-4d093f80cb63)
 
 ## MVI
 
