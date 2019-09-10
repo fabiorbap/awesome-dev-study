@@ -92,3 +92,7 @@ https://codinginfinite.com/qrcode-generator-and-reader-android-example/
 ## Layout
 
 - [ConstraintLayout Tutorial Part 1 - UNDERSTANDING CONSTRAINTS - Android Studio Tutorial](https://www.youtube.com/watch?v=4N4bCdyGcUc)
+
+## Miscellaneous
+
+- [Live Templates in Android Studio: Getting Started](https://www.raywenderlich.com/4979242-live-templates-in-android-studio-getting-started)
