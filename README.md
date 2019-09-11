@@ -96,3 +96,7 @@ https://codinginfinite.com/qrcode-generator-and-reader-android-example/
 ## Miscellaneous
 
 - [Live Templates in Android Studio: Getting Started](https://www.raywenderlich.com/4979242-live-templates-in-android-studio-getting-started)
+
+# UX
+
+- [Basic Patterns For Mobile Navigation: Pros And Cons](https://www.smashingmagazine.com/2017/05/basic-patterns-mobile-navigation/)
