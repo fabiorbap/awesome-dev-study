@@ -97,6 +97,10 @@ https://codinginfinite.com/qrcode-generator-and-reader-android-example/
 
 - [Live Templates in Android Studio: Getting Started](https://www.raywenderlich.com/4979242-live-templates-in-android-studio-getting-started)
 
+## Authentication
+
+- [Access tokens and Refresh tokens](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/#:~:text=Refresh%20tokens%20carry%20the%20information,issued%20by%20the%20authentication%20server.)
+
 # UX
 
 ## Navigation
